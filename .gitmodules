@@ -4,3 +4,9 @@
 [submodule "host"]
 	path = host
 	url = https://github.com/sudzekai-web-os/host
+[submodule "files-module"]
+	path = files-module
+	url = https://github.com/sudzekai-web-os/files-module
+[submodule "directories-module"]
+	path = directories-module
+	url = https://github.com/sudzekai-web-os/directories-module
